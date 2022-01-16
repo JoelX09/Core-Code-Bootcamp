@@ -1,6 +1,6 @@
 <h1 align="center">Introduction to programming & Javascript</h1>
 
-<strong><h3>Tuesday (01-12-2022)</h3></strong>
+<strong><h3>Tuesday (01-11-2022)</h3></strong>
 
 1. Watch [this][1] video about compilation and interpretation.
 
