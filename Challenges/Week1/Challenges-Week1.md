@@ -27,13 +27,13 @@
 4. Read about Pseudocode [here][2], you can also find some examples [here][3].
 
     ```
-    Because you just have to be able to explain what you're thinking and doing. You make the rules yourself.
+    Done
     ```
 
 5. Anwser to the question: Why is pseudocode helpful?
 
     ```
-    Done
+    Because you just have to be able to explain what you're thinking and doing. You make the rules yourself.
     ```
 
 6. Create a pseudocode to calculate the aproximated age of a user base on the year they born, (you can define a variable with the actual year if you need it, like for example i could define Y <-- 2022).
@@ -70,7 +70,7 @@
     Done
     ```
 
-<br>
+***
 
 <strong><h3>Wednesday (01-12-2022)</h3></strong>
 
@@ -109,7 +109,7 @@
         Done
         ```
 
-<br>
+***
 
 <strong><h3>Thursday (01-13-2022)</h3></strong>
 
