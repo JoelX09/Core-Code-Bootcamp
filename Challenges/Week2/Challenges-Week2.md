@@ -104,13 +104,3 @@
 [9]: https://www.codewars.com/kata/55ad04714f0b468e8200001c
 [10]: https://www.codewars.com/kata/551f37452ff852b7bd000139
 [11]: https://www.codewars.com/kata/5ad0d8356165e63c140014d4
-
-function uniTotal (string) {
-    var total = 0;
-    for(let x of string){
-      total += x.charCodeAt(0)
-    }
-    return total
-}
-
-console.log(uniTotal("Hola"))
