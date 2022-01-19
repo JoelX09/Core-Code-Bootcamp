@@ -102,8 +102,8 @@
     ```
 
 5. Base on the examples and the guide of the low-level language: 
-    1. [Create a program to add two numbers given by the user.](Program1.asm)
-    2. [Create a program that display your name.](Program2.asm)
+    1. [Create a program to add two numbers given by the user.](./src/Program1.asm)
+    2. [Create a program that display your name.](./src/Program2.asm)
 
         ```
         Done

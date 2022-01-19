@@ -10,7 +10,7 @@ Repository for Bootcamp challenges: Sofware Development from Scratch.
 
 - Week 1 : [Introduction to programming & Javascript](./Challenges/Week1/Challenges-Week1.md)
 
-- Week 2 : Javascript
+- Week 2 : [Javascript](./Challenges/Week2/Challenges-Week2.md)
 
 - Week 3 : Javascript
 
