@@ -183,6 +183,7 @@
     ```
     I’m Joel Xicara, a software developer, I’ve worked with Java, JavaScript, C#, Python, MySQL on University projects. I want to expand my knowledge and skills to offer solutions that benefit people’s lives, working with commitment and responsability to achieve it.
     ```
+
 <br>
 
 [Home](../../README.md)
