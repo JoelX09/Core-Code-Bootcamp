@@ -12,7 +12,7 @@ Repository for Bootcamp challenges: Sofware Development from Scratch.
 
 - Week 2 : [Javascript](./Challenges/Week2/Challenges-Week2.md)
 
-- Week 3 : Javascript
+- Week 3 : [Javascript](./Challenges/Week3/Challenges-Week3.md)
 
 - Week 4 : npm,npx & Typescript
 
