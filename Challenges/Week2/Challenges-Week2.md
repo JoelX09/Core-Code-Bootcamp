@@ -38,7 +38,7 @@
 
     ```javascript
     function multiply(a, b){
-      return a * b
+      return a * b;
     }
     ```
 
@@ -48,9 +48,9 @@
     function uniTotal (string) {
       var total = 0;
       for(let x of string){
-        total += x.charCodeAt(0)
+        total += x.charCodeAt(0);
       }
-      return total
+      return total;
     }
     ```
 
@@ -67,8 +67,8 @@
     ```javascript
     function addBinary(a,b) {
       let add = a + b;
-      let binary = add.toString(2)
-      return String(binary)
+      let binary = add.toString(2);
+      return String(binary);
     }
     ```
 
@@ -91,7 +91,7 @@
 
     ```javascript
     function dutyFree(normPrice, discount, hol) {
-      return Math.trunc(hol/(normPrice*(discount/100)))
+      return Math.trunc(hol/(normPrice*(discount/100)));
     }
     ```
 
@@ -121,10 +121,10 @@
 
     ```javascript
     function fakeBin(x){
-      let result = ''
+      let result = '';
       for(let digit of x)
-        Number(digit)<5 ? result += 0 : result += 1
-      return result
+        Number(digit)<5 ? result += 0 : result += 1;
+      return result;
     }
     ```
 
@@ -138,7 +138,7 @@
     function remove (string) {  
       let result = string;
       while(result[result.length -1] === "!")
-        result = result.substr(0, result.length-1)
+        result = result.substr(0, result.length-1);
       return result;
     }
     ```
@@ -154,7 +154,7 @@
 3. Challenge 3: [https://www.codewars.com/kata/5672a98bdbdd995fad00000f][18].
 
     ```javascript
-    function rps = (p1, p2) => {
+    const rps = (p1, p2) => {
       if(p1 === p2) return "Draw!";
       if(p1 === "paper" && p2 === "rock") return "Player 1 won!";
       if(p1 === "scissors" && p2 === "paper") return "Player 1 won!";
@@ -183,6 +183,12 @@
     ```
     I’m Joel Xicara, a software developer, I’ve worked with Java, JavaScript, C#, Python, MySQL on University projects. I want to expand my knowledge and skills to offer solutions that benefit people’s lives, working with commitment and responsability to achieve it.
     ```
+
+***
+
+<strong><h3>Friday (01-21-2022)</h3></strong>
+
+  * [Test](../../Test/TestWeek2.js)
 
 <br>
 
