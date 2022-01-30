@@ -190,7 +190,9 @@
     }
     ```
 
-4. ✨Complete your 2nd Core Challenge. This is one of the requirements for the certification, where you'll boost your dev professional-brand.
+4. ✨Complete your 2nd [Core Challenge][13]. This is one of the requirements for the certification, where you'll boost your dev professional-brand.
+ 
+    * [LinkedIn](https://www.linkedin.com/in/joelxicara/)
 
 ***
 
@@ -214,3 +216,4 @@
 [10]: https://www.codewars.com/kata/57ea70aa5500adfe8a000110
 [11]: https://www.codewars.com/kata/5848565e273af816fb000449
 [12]: https://www.codewars.com/kata/53368a47e38700bd8300030d
+[13]: https://corecode.notion.site/LinkedIn-Boost-Guide-5974abb0f917458ea235d3288ac6c7d3
