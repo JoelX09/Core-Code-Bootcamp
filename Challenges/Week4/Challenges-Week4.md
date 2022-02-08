@@ -226,7 +226,11 @@
 5. [What's Your Poison?][25].
 
     ```javascript
-    
+    export function find(rats: number[]): number {
+        return rats.reduce((prev, curr) => {
+            return prev + Math.pow(2, curr);
+        }, 0);
+    }
     ```
 
 6. ✨Complete your 3rd [Core Challenge][26]. This is one of the requirements for the certification, where you'll boost your dev professional-brand.
