@@ -132,7 +132,7 @@
 3. (Optional but great) Watch [this][9] video.
 
     ```
-    75% Complete
+    Done
     ```
 
 4. Follow the github course, you can find it [here][10].

@@ -14,7 +14,7 @@ Repository for Bootcamp challenges: Sofware Development from Scratch.
 
 - Week 3 : [Javascript](./Challenges/Week3/Challenges-Week3.md)
 
-- Week 4 : npm,npx & Typescript
+- Week 4 : [npm, npx & Typescript](./Challenges/Week4/Challenges-Week4.md)
 
 - Week 5 : Typescript
 
@@ -29,6 +29,11 @@ Repository for Bootcamp challenges: Sofware Development from Scratch.
 - Week 10 : Node & Database
 
 - Week 11 : S.O.L.I.D
+
+<br>
+
+## Badges
+- [Module 1 Badge](https://badgr.com/public/assertions/W7nlrdxIRHajBPBPPc69hA)
 
 <br>
 

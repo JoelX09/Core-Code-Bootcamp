@@ -33,7 +33,7 @@
 /* ##################################################### */
 
 function encode(plainText) {
-    let result = '', count = 1, prev = '', letter = '';
+    let result = '', count = 1;
     for(let i = 0, l = plainText.length; i < l; i++){
         while(plainText[i] === plainText[i+1]){
             count++;
