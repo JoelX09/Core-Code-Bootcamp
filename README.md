@@ -16,7 +16,7 @@ Repository for Bootcamp challenges: Sofware Development from Scratch.
 
 - Week 4 : [npm, npx & Typescript](./Challenges/Week4/Challenges-Week4.md)
 
-- Week 5 : Typescript
+- Week 5 : [Typescript](./Challenges/Week5/Challenges-Week5.md)
 
 - Week 6 : Typescript
 
