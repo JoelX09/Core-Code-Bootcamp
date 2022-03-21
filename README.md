@@ -18,22 +18,23 @@ Repository for Bootcamp challenges: Sofware Development from Scratch.
 
 - Week 5 : [Typescript](./Challenges/Week5/Challenges-Week5.md)
 
-- Week 6 : Typescript
+- Week 6 : [Typescript](./Challenges/Week6/Challenges-Week6.md)
 
-- Week 7 : Typescript
+- Week 7 : [Typescript](./Challenges/Week7/Challenges-Week7.md)
 
-- Week 8 : HTML & CSS
+- Week 8 : [HTML & CSS](./Challenges/Week8/Challenges-Week8.md)
 
-- Week 9 : React & Node
+- Week 9 : [React & Node](./Challenges/Week9/Challenges-Week9.md)
 
-- Week 10 : Node & Database
+- Week 10 : [Node & Database](./Challenges/Week10/Challenges-Week10.md)
 
 - Week 11 : S.O.L.I.D
 
 <br>
 
 ## Badges
-- [Module 1 Badge](https://badgr.com/public/assertions/W7nlrdxIRHajBPBPPc69hA)
+- [JavaScript module](https://badgr.com/public/assertions/W7nlrdxIRHajBPBPPc69hA)
+- [TypeScript module](https://badgr.com/public/assertions/CPOwznW4TT67cpRnupa97w)
 
 <br>
 

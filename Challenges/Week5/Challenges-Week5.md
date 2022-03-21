@@ -216,11 +216,13 @@
 
     [Solution](https://github.com/JoelX09/W5-Wed-E2)
 
-3. [Retional][18] Using `Typescript`.
+3. [Rational][18] Using `Typescript`.
 
     [Solution](https://github.com/JoelX09/W5-Wed-E3)
 
 4. ✨Complete your 4th [Core Challenge][19]. This is one of the requirements for the certification, where you'll boost your dev professional-brand.
+
+    [Certificate](https://www.credential.net/1b666e7a-6b12-4b9b-8795-285f82f95531#gs.rwpwm7)
 
 ***
 
