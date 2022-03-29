@@ -63,7 +63,26 @@
 1. [A Rule of Divisibility by 13][6] Using `Typescript`
 
     ```typescript
-    
+    export function thirt(n: number): number {
+        let stationary = 0;
+        let remainders = [1, 10, 9, 12, 3, 4];
+
+        let reverse: string[] = [];
+        let index = 0;
+        while (true) {
+            reverse = String(n).split("").reverse();
+
+            stationary = reverse.reduce((p, c) => {
+            if (index > 5) index = 0;
+            p = p + Number(c) * remainders[index++];
+            return p;
+            }, 0);
+
+            if (n === stationary) return stationary;
+            index = 0;
+            n = stationary;
+        }
+    }
     ```
 
 2. [Playing with digits][7] Using `Typescript`.
@@ -169,7 +188,13 @@
 3. [Which are in?][13] Using `Typescript`
 
     ```typescript
-    
+    export class G964 {
+        public static inArray(a1: string[], a2: string[]): string[] {
+            return a1.filter(e => {
+                return a2.join("#").indexOf(e) !== -1 ? true : false;
+            }).sort();
+        }
+    }
     ```
 
 4. [Sums of Parts][14] Using `Typescript`

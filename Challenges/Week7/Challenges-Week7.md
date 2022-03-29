@@ -60,20 +60,48 @@
 
 2. Read and follow [this][6].
 
+        Done
 
 3. Read and follow [this][7].
 
+        Done
 
 4. [Dashatize it][8].
 
     ```typescript
-    
+    export const dashatize = (num: number) => {
+        if(!num) return String(num);
+
+        num = Math.abs(num);
+        if(num < 10) return num;
+
+        let result = '';
+        String(num).split("").reduce((p, c)=>{
+            if(Number(c)%2 === 0){
+                result += c;
+            } else {
+                if(Number(p)%2 !==0){
+                    result += `${c}-`;
+                }else {
+                    result += `-${c}-`;
+                }
+            }
+            return c;
+        },'');
+
+        result = result[0] === '-' ? result.slice(1) : result;
+        result = result.slice(-1) === '-' ? result.slice(0,-1) : result
+        
+        return result;
+    };
     ```
 ***
 
 <strong><h3>Thursday (02-24-2022)</h3></strong>
 
 1. [Type Predicate][9].
+
+    [Exercise](./src/TypeExercise.ts)
 
 2. [Count the smiley faces!][10].
     
@@ -102,7 +130,15 @@
 4. [Base64 Encoding][12].
 
     ```typescript
-    
+    export function toBase64(str: string): string {
+        // Encode this string to Base64
+        return Buffer.from(str).toString("base64");
+    }
+
+    export function fromBase64(str: string): string {
+        // Decode this string from Base64
+        return Buffer.from(str, "base64").toString("ascii");
+    }
     ```
 
 5. ✨Complete your 4th Core Challenge, the [Scrum Essentials Certification](https://university.scrumnetwork.com/).

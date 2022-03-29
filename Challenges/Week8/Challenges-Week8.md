@@ -24,9 +24,15 @@
 
 1. Create a webpage that prints the numbers 1 - 10, each number being a different color. (No JS/TS)
 
+    [Challenge](./src/Tuesday/T01.html)
+
 2. Create a webpage that prints two lists with any information you want. One list should be an ordered list, the other list should be an unordered list.
 
+    [Challenge](./src/Tuesday/T02.html)
+
 3. Create a webpage that prints some random paragraphs (https://loremipsum.io/es/) and give them some titles using different header sizes.
+
+    [Challenge](./src/Tuesday/T03.html)
 
 ***
 
@@ -34,9 +40,15 @@
 
 1. Create some links to various search engines.
 
+    [Challenge](./src/Wednesday/W01.html)
+
 2. Display five different images. Each image should have a title.
 
+    [Challenge](./src/Wednesday/W02.html)
+
 3. Display an image that when clicked will link to a website of your choice (should be opened in a new window).
+
+    [Challenge](./src/Wednesday/W03.html)
 
 ***
 
